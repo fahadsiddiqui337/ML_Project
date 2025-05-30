@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Writing/Desktop/ML_Projects/mlruns/0/d28f95e419f24af7ab9a05ac53fdb976/artifacts
+end_time: 1748586751334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d28f95e419f24af7ab9a05ac53fdb976
+run_name: delicate-elk-891
+run_uuid: d28f95e419f24af7ab9a05ac53fdb976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748586729183
+status: 3
+tags: []
+user_id: root
