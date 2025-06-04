@@ -22,7 +22,7 @@ class DataIngestion:  # Fixed class name
     def initiate_data_ingestion(self):
         try:
             # Reading the data from CSV (your comment says MySQL, but you read CSV)
-            df = pd.read_csv(os.path.join('notebook/data'//'raw.csv'))
+            df = pd.read_csv(os.path.join('notebook/data', 'raw.csv'))
             logging.info("Reading completed from CSV file")
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
