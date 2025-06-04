@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Writing/Desktop/ML_Projects/mlruns/0/b6d5393e71fd41fe87ea8cc9450b195a/artifacts
+end_time: 1749033139168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6d5393e71fd41fe87ea8cc9450b195a
+run_name: unique-mole-962
+run_uuid: b6d5393e71fd41fe87ea8cc9450b195a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749033120546
+status: 3
+tags: []
+user_id: root

@@ -2,7 +2,7 @@ from dataclasses import dataclass
 import os
 import sys
 import pandas as pd
-from sklearn.model_selection import train_test_split  # <-- missing import
+from sklearn.model_selection import train_test_split  
 
 from src.ML_Project.exception import CustomException
 from src.ML_Project.logger import logging
